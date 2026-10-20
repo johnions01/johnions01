@@ -1,6 +1,6 @@
 ## Hi, I'm Giannis! 👋
 
-I'm a Molecular Biology student interested in **Computational Biology, Bioinformatics, and Single-cell Genomics**.
+I'm a Molecular Biology student interested in **Computational Biology, Bioinformatics and Single-cell Genomics**.
 
 My interests lie at the intersection of experimental biology and computational data analysis, particularly in understanding cellular diversity, development and gene expression.
 
