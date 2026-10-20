@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Giannis! 👋
 
-<!--
-**johnions01/johnions01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Molecular Biology student interested in **Computational Biology, Bioinformatics, and Single-cell Genomics**.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of experimental biology and computational data analysis, particularly in understanding cellular diversity, development and gene expression.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Molecular & Developmental Biology
+- Single-cell RNA Sequencing (scRNA-seq)
+- Computational Biology & Bioinformatics
+- Cardiac Development & Cellular Heterogeneity
+
+## 💻 Technical Skills
+
+- Programming & Data Analysis
+- Bioinformatics & Computational Methods
+- Data Visualization
+- Statistical Analysis
+- Scientific Computing
+
+## 📂 Projects
+
+I'm currently building a portfolio of computational biology and data analysis projects.
+
+Selected projects and reproducible analysis workflows will be added here.
+
+## 📫 Connect
+
+- [GitHub](https://github.com/johnions01)
